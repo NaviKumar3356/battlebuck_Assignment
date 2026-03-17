@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MatchRules_Default
   m_EditorClassIdentifier: Assembly-CSharp::DeathMatch.Match.MatchRules
   playerCount: 10
-  matchDuration: 120
+  matchDuration: 60
   respawnTime: 3
   killIntervalMin: 1
   killIntervalMax: 2
